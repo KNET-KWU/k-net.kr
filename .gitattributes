@@ -1,0 +1,10 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Configure Git to handle line endings
+# from github: 
+#   https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
+
+# Generate .gitattribute
+# from git:
+#   https://gitattributes.io/
